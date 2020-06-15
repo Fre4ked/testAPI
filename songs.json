@@ -1,4 +1,5 @@
-
+{
+	"songs": [
 		{
 			"id": 1,
 			"title": "Die beiden Grenadiere",
@@ -15,10 +16,10 @@
 		},
 		{
 			"id": 2,
-			"title": "Gaudeamus igitur",
-			"page": "214",
+			"title": "Io Vivat",
+			"page": "213",
 			"info": "Plechtig lied",
-			"text": "Gaudeamus Blablabla\nBlablabla\nBlabla blalba\nGaudabla\n\nBlabla bla "
+			"text": "Io Vivat Blablabla\nBlablabla\nBlabla blalba\nIo Vivat\n\nBlabla bla "
 		},
 		{
 			"id": 2,
@@ -349,3 +350,5 @@
 			"info": "Plechtig lied",
 			"text": "Io Vivat Blablabla\nBlablabla\nBlabla blalba\nIo Vivat\n\nBlabla bla "
 		}
+	]
+}
