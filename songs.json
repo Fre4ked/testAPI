@@ -1,5 +1,4 @@
-{
-	"songs": [
+[
 		{
 			"id": 1,
 			"title": "Die beiden Grenadiere",
@@ -351,4 +350,3 @@
 			"text": "Io Vivat Blablabla\nBlablabla\nBlabla blalba\nIo Vivat\n\nBlabla bla "
 		}
 	]
-}
